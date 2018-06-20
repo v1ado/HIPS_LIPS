@@ -703,6 +703,8 @@ SecurityManager.exe | MSC BAM Services
 SecurityManager.exe | MSC BAM Services 
 AESecurityService.exe | MS Content Management Service 
 AESecurityService.exe | MS Content Management Service 
+Deteqt.Agent.exe | MWR Deteqt Suite EDR
+OmniAgent.exe | MWR OmniAgent
 nerosvc.exe | Nero Security Service 
 nerosvc.exe | Nero Security Service 
 SeAnalyzerTool.exe | Netgate Spy Emergency
