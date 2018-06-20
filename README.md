@@ -62,6 +62,7 @@ LanAgent
 McAfee
 Microsoft
 Malwarebytes
+MWR
 Radialpoint
 Nero
 Steganos
