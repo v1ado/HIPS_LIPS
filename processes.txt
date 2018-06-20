@@ -73,6 +73,8 @@ AvastSvc.exe | Avast
 avEngine.exe | Avast
 afwServ.exe | Avast Firewall Service
 AvastUI.exe | Avast GUI
+avastemupdate.exe | Avast Internet Security
+unsecapp.exe | Avast Internet Security
 avgamsvr.exe | AVG
 avgas.exe | AVG
 avgcc32.exe | AVG
@@ -110,13 +112,29 @@ avgfws9.exe | AVG 9.0 FW
 avgrsx.exe | AVG Anti-Virus
 avgtray.exe | AVG Anti-Virus
 avgwdsvc.exe | AVG Anti-Virus
+sidebar.exe | AVG Anti-Virus
 AVGCHSVX.EXE | AVG Internet Security
 AVGCSRVX.EXE | AVG Internet Security
 AVGNSX.EXE | AVG Internet Security
 AVGSVC.EXE | AVG Internet Security
 AVGUI.EXE | AVG Internet Security
+avgcmgr.exe | AVG Internet Security (32-bit)
+avgemcx.exe | AVG Internet Security (32-bit)
+avgfws.exe | AVG Internet Security (32-bit)
+avgmfapx.exe | AVG Internet Security (32-bit)
+avgcefrend.exe | AVG Internet Security (64-bit)
+avgcsrva.exe | AVG Internet Security (64-bit)
+avgemca.exe | AVG Internet Security (64-bit)
+avgfws.exe | AVG Internet Security (64-bit)
+avgmfapx.exe | AVG Internet Security (64-bit)
+avgnsa.exe | AVG Internet Security (64-bit)
+avgrsa.exe | AVG Internet Security (64-bit)
+loggingserver.exe | AVG Internet Security (64-bit)
+toolbarupdater.exe | AVG Internet Security (64-bit)
+wtusystemsuport.exe | AVG Internet Security (64-bit)
 avgregcl.exe | AVG Registry Cleaner
 avgsystx.exe | AVG SysTools
+vprot.exe | AVG VProtect Application for SafeSearch
 avcenter.exe | Avira
 avcenter.exe | Avira
 avconfig.exe | Avira
@@ -146,6 +164,9 @@ BavTray.exe | Baidu AV
 Bhipssvc.exe | Baidu AV
 bmrt.exe | Barracuda Malware Removal Tool
 bmrt.exe | Barracuda Malware Removal Tool | SECURITY_PRODUCT
+seccenter.exe | Bitdefender
+gziface.exe | Bitdefender Free
+gzserv.exe | Bitdefender Free
 bdagent.exe | BitDefender Security Suite
 bdc.exe | BitDefender Security Suite
 bdlite.exe | BitDefender Security Suite
@@ -526,6 +547,9 @@ RPCServ.exe | McAfee
 RPCServ.exe | McAfee
 srvmon.exe | McAfee
 mcagent.exe | McAfee Agent
+mfemactl.exe | McAfee Agent AAC Host
+macmnsvc.exe | McAfee Agent Common Services
+masvc.exe | McAfee Agent Service
 masalert.exe | McAfee AntiSpyware
 msssrv.exe | McAfee Anti Spyware
 massrv.exe | McAfee AntiSpyware application
@@ -533,7 +557,10 @@ msscli.exe | McAfee AntiSpyware Component
 mcshld9x.exe | McAfee AntiVirus Component
 mgavrtcl.exe | McAfee antivirus software
 mcappins.exe | McAfee Application Installer
+mfecanary.exe | McAfee Canary Process
+macompatsvc.exe | McAfee Compat service
 mcvsrte.exe | McAfee.com VirusScan Online Realtime Engine
+mfefire.exe | McAfee Core Firewall Service
 DAO_Log.exe | McAfee DAO Logger
 firesvc.exe | McAfee Desktop Firewall
 FireSvc.exe | McAfee Desktop Firewall
@@ -542,12 +569,15 @@ firetray.exe | McAfee Desktop Firewall Traybar Helper
 MCAPEXE.EXE | McAfee Endpoint Protection 
 MCSACORE.EXE | McAfee Endpoint Protection 
 MCSVHOST.EXE | McAfee Endpoint Protection 
+mfeesp.exe | McAfee Endpoint Security Platform component hosting server
 naprdmgr.exe | McAfee ePolicy Orchestrator
 naPrdMgr.exe | McAfee ePolicy Orchestrator
 cpd.exe | McAfee Firewall
+mfefw.exe | McAfee Firewall Business Object Hosting Server
 FrameworkServic | McAfee Framework Services
 cmgrdian.exe | McAfee Guardian Tray Icon
 mcshell.exe | McAfee GUI
+mfehcs.exe | McAfee HookCore Service
 mcinfo.exe | McAfee Internet Security
 HWAPI.exe | McAfee Internet Security Suite
 McAfeeDataBackup.exe | McAfee Internet Security Suite
@@ -565,6 +595,7 @@ RedirSvc.exe | McAfee Internet Security Suite
 SAService.exe | McAfee Internet Security Suite
 siteadv.exe | McAfee Internet Security Suite
 SiteAdv.exe | McAfee Internet Security Suite
+mfemms.exe | McAfee Management Service
 neotrace.exe | McAfee NeoTrace
 vshwin32.exe | McAfee On-access scanner
 mpfagent.exe | McAfee Personal Firewall
@@ -590,6 +621,7 @@ mskagent.exe | McAfee SpamKiller Module
 stinger.exe | McAfee Stinger
 mcsysmon.exe | McAfee System Monitor
 mctskshd.exe | McAfee Task Scheduler
+mfetp.exe | McAfee Threat Prevention Service
 myagttry.exe | McAfee Total Protection for Small Business
 mcupdmgr.exe | McAfee Update Manager
 rulaunch.exe | McAfee User Interface
@@ -642,6 +674,8 @@ vstskmgr.exe | McAfee VirusScan Task Manager
 VsTskMgr.exe | McAfee VirusScan Task Manager
 webscanx.exe | McAfee Web and ActiveX Scanner
 WebScanX.exe | McAfee Web and ActiveX Scanner
+mfewc.exe | McAfee Web Control Service
+mfewch.exe | McAfee Web Control Service
 giantantispywaremain.exe | Microsoft AntiSpyware
 giantantispywareupdater.exe | Microsoft AntiSpyware
 gcasservalert.exe | Microsoft AntiSpyware Alert Process
@@ -659,6 +693,7 @@ fcssas.exe | Microsoft Forefront Client Security State Assessment Service
 fcssas.exe | Microsoft Forefront Client Security State Assessment Service 
 FcsSas.exe | Microsoft Forefront Client Security State Assessment Service 
 FcsSas.exe | Microsoft Forefront Client Security State Assessment Service 
+nissrv.exe | Microsoft Network Inspection System
 DPMRA.exe | Microsoft Security Center Data Protection Manager 
 DPMRA.exe | Microsoft Security Center Data Protection Manager 
 msseces.exe | Microsoft Security Essentials
