@@ -33,6 +33,7 @@ ClamAV
 CrowdStrike
 Cylance
 Carbon Black
+Cybereason
 DrWeb
 Deep Freeze
 Ewido
