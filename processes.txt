@@ -288,6 +288,9 @@ CylanceUI.exe | Cylance | NGAV EDR
 CylanceUI.exe | Cylance | NGAV EDR
 CylanceSvc.exe | Cylance | NGAV EDR 
 CylanceSvc.exe | Cylance | NGAV EDR 
+CrAmTray.exe | Cybereason | EDR 
+CrsSvc.exe | Cybereason | EDR 
+AmSvc.exe | Cybereason | EDR 
 FrzState2k.exe | Deep Freeze
 DRWAGNUI.EXE | DrWeb
 drweb32.exe | DrWeb
