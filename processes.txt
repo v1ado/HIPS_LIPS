@@ -360,7 +360,8 @@ TrapTrackerMgr.exe | EventTracker SNMP Trap service
 ewidoctrl.exe | Ewido Security Suite 
 ewidoctrl.exe | Ewido Security Suite 
 ewidoguard.exe | Ewido Security Suite 
-ewidoguard.exe | Ewido Security Suite 
+ewidoguard.exe | Ewido Security Suite
+nslocollectorservice.exe | enSilo Data Protection Collector Service
 FCDBLog.exe | FortiClient Host Security
 fmon.exe | FortiClient Host Security 3.0.459
 fortifw.exe | FortiClient Host Security 3.0.459
