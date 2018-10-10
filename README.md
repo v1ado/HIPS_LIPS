@@ -42,6 +42,7 @@ Entensys
 EventTracker
 ESET
 Emsisoft
+enSilo
 F-Secure
 FortiClient
 F-PROT
