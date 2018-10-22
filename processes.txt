@@ -314,7 +314,6 @@ SPIDERML.EXE | DrWeb
 spidernt.exe | DrWeb
 SPIDERNT.EXE | DrWeb
 spiderui.exe | DrWeb
-SpIDerAgent.exe | Dr Web
 drwagntd.exe | DrWeb Enterprise
 DRWAGNTD.EXE | DrWeb Enterprise
 drwupgrade.exe | DrWeb Enterprise
