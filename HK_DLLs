@@ -1,0 +1,4 @@
+CyMemDef64.dll | Cylance EDR
+ScriptControl64_[ver].dll | CrowdStrike EDR
+CrowdStrike.Sensor.ScriptControl[ver].dll | CrowdStrike EDR
+umppc[ver].dll | CrowdStrike EDR
