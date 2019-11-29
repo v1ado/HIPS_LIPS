@@ -259,6 +259,8 @@ okclient.exe | Cisco Security Agent
 csacontrol.exe | Cisco Security Agent 5.1
 leventmgr.exe | Cisco Security Agent 5.1
 okclient.exe | Cisco Security Agent 5.1
+iptray.exe | Cisco AMP | EDR process
+sfc.exe | Cisco AMP | EDR service
 clamscan.exe | ClamAV
 ClamTray.exe | ClamAV
 ClamWin.exe | ClamAV
