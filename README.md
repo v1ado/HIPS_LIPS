@@ -96,7 +96,7 @@ Secret Net
 Simply Super Software
 Super WinSpy
 Threatfire
-Trend Micro
+Trend Micro AV + Deep Security EDR
 VRV
 Vipre Security
 Windows Defender
