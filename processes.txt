@@ -290,7 +290,8 @@ CylanceSvc.exe | Cylance | NGAV EDR
 CylanceSvc.exe | Cylance | NGAV EDR 
 CrAmTray.exe | Cybereason | EDR 
 CrsSvc.exe | Cybereason | EDR 
-AmSvc.exe | Cybereason | EDR 
+AmSvc.exe | Cybereason | EDR
+PylumLoader.exe| Cybereason | EDR
 FrzState2k.exe | Deep Freeze TM EDR
 Notifier.exe | Deep Security TM EDR
 ds_monitor.exe | Deep Security TM EDR
