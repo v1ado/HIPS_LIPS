@@ -685,6 +685,9 @@ webscanx.exe | McAfee Web and ActiveX Scanner
 WebScanX.exe | McAfee Web and ActiveX Scanner
 mfewc.exe | McAfee Web Control Service
 mfewch.exe | McAfee Web Control Service
+McUICnt.exe | McAfee
+mfeavsvc.exe | McAfee Cloud AV
+ProtectedModuleHost.exe | McAfee
 giantantispywaremain.exe | Microsoft AntiSpyware
 giantantispywareupdater.exe | Microsoft AntiSpyware
 gcasservalert.exe | Microsoft AntiSpyware Alert Process
