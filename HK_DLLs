@@ -2,3 +2,8 @@ CyMemDef64.dll | Cylance EDR
 ScriptControl64_[ver].dll | CrowdStrike EDR
 CrowdStrike.Sensor.ScriptControl[ver].dll | CrowdStrike EDR
 umppc[ver].dll | CrowdStrike EDR
+AMSIExt.dll | McAfee AV
+mccoreps.dll | McAfee AV
+mfehida.dll |  McAfee AV
+mfemmsa.dll |  McAfee AV
+mfevtpa.dll |  McAfee AV
