@@ -8,3 +8,6 @@ mfehida.dll |  McAfee AV
 mfemmsa.dll |  McAfee AV
 mfevtpa.dll |  McAfee AV
 mbae.dll | Malware Bytes Premium
+DeepHeur.dll | Deep Instinct NGAV
+DeepCredentialsProtection.dll | Deep Instinct NGAV
+DeepCI.dll | Deep Instinct NGAV
